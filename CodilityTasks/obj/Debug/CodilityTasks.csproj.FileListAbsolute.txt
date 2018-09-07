@@ -1,0 +1,7 @@
+C:\Projects\AlgorythmicTasks\CodilityTasks\bin\Debug\ConsoleApplication2.exe.config
+C:\Projects\AlgorythmicTasks\CodilityTasks\bin\Debug\ConsoleApplication2.exe
+C:\Projects\AlgorythmicTasks\CodilityTasks\bin\Debug\ConsoleApplication2.pdb
+C:\Projects\AlgorythmicTasks\CodilityTasks\obj\Debug\CodilityTasks.csprojAssemblyReference.cache
+C:\Projects\AlgorythmicTasks\CodilityTasks\obj\Debug\CodilityTasks.csproj.CoreCompileInputs.cache
+C:\Projects\AlgorythmicTasks\CodilityTasks\obj\Debug\ConsoleApplication2.exe
+C:\Projects\AlgorythmicTasks\CodilityTasks\obj\Debug\ConsoleApplication2.pdb
